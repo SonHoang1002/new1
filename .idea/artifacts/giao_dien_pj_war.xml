@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="giao_dien_pj:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>giao_dien_pj</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="giao_dien_pj-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="giao_dien_pj:war exploded" />
+    </root>
+  </artifact>
+</component>
